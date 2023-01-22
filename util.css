@@ -1,0 +1,12 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+}
+.mx{
+    max-width: 30vw;
+}
+.mx-auto{
+    margin: auto;
+}
